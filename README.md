@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi ...
 
 ### I'm Youssef Mohamed — Frontend Developer 💻
 
@@ -27,6 +27,5 @@
 
 ### ❤️ Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white)](https://YOUR_WEBSITE.com)
+[![LinkedIn](https://www.linkedin.com/in/yousef-mohamed-34524a324/)
+[![Portfolio](https://my-portfolio-i98s.vercel.app/)
