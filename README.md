@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=200&section=header&text=Youssef%20Mohamed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Redux%20Enthusiast&descAlignY=57&descSize=18"/>
 
@@ -24,11 +22,11 @@ readme = r'''<div align="center">
 
 ## 👨🏻‍💻 About Me
 
-- 💻 Frontend Developer focused on clean and responsive user interfaces.
-- ⚛️ Building modern applications with React.
-- 🧠 Working with Redux Toolkit for predictable state management.
-- 🚀 Always open to collaboration, experiments, and learning new technologies.
-- 💡 I enjoy turning ideas into polished web experiences.
+* 💻 Frontend Developer focused on clean and responsive user interfaces.
+* ⚛️ Building modern applications with React.
+* 🧠 Working with Redux Toolkit for predictable state management.
+* 🚀 Always open to collaboration, experiments, and learning new technologies.
+* 💡 I enjoy turning ideas into polished web experiences.
 
 ---
 
@@ -52,10 +50,10 @@ readme = r'''<div align="center">
 
 ## 📌 What I'm Working On
 
-- Building responsive React applications.
-- Improving my skills in Redux Toolkit and state management.
-- Creating clean UI components with Tailwind CSS.
-- Exploring better frontend architecture and performance practices.
+* Building responsive React applications.
+* Improving my skills in Redux Toolkit and state management.
+* Creating clean UI components with Tailwind CSS.
+* Exploring better frontend architecture and performance practices.
 
 ---
 
@@ -64,20 +62,20 @@ readme = r'''<div align="center">
 ## 🔥 GitHub Streak
 
 <img
-  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=7C3AED&ring=06B6D4&fire=F97316&currStreakLabel=06B6D4"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=7C3AED&ring=06B6D4&fire=F97316&currStreakLabel=06B6D4"
+alt="GitHub Streak"
 />
 
 <br/><br/>
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
 />
 
 </div>
@@ -132,8 +130,3 @@ readme = r'''<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=120&section=footer"/>
 
 </div>
-'''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(path)
