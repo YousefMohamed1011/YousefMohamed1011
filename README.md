@@ -1,18 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=200&section=header&text=Youssef%20Mohamed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Redux%20Enthusiast&descAlignY=57&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=200&section=header&text=Youssef%20Mohamed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%26%20Redux%20Enthusiast&descAlignY=57&descSize=18" />
 
 <h1>Hi, I'm Youssef Mohamed 👋</h1>
 
 <h3>Frontend Developer | React & Redux Enthusiast</h3>
 
-<p>
-  Building clean, responsive, and user-focused web experiences.
-</p>
+<p>Building clean, responsive, and user-focused web experiences.</p>
 
-<p>
-  <i>"Explore 🔥 and Explode 💡 with knowledge"</i>
-</p>
+<p><i>"Explore 🔥 and Explode 💡 with knowledge"</i></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+Redux+Enthusiast;Building+Clean+Responsive+Experiences" alt="Typing SVG" />
 
@@ -22,11 +18,11 @@
 
 ## 👨🏻‍💻 About Me
 
-* 💻 Frontend Developer focused on clean and responsive user interfaces.
-* ⚛️ Building modern applications with React.
-* 🧠 Working with Redux Toolkit for predictable state management.
-* 🚀 Always open to collaboration, experiments, and learning new technologies.
-* 💡 I enjoy turning ideas into polished web experiences.
+- 💻 Frontend Developer focused on clean and responsive user interfaces.
+- ⚛️ Building modern applications with React.
+- 🧠 Working with Redux Toolkit for predictable state management.
+- 🚀 Always open to collaboration, experiments, and learning new technologies.
+- 💡 I enjoy turning ideas into polished web experiences.
 
 ---
 
@@ -36,7 +32,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite,git,github,figma&theme=dark" />
 
-<br/><br/>
+<br /><br />
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
@@ -50,10 +46,10 @@
 
 ## 📌 What I'm Working On
 
-* Building responsive React applications.
-* Improving my skills in Redux Toolkit and state management.
-* Creating clean UI components with Tailwind CSS.
-* Exploring better frontend architecture and performance practices.
+- Building responsive React applications.
+- Improving my skills in Redux Toolkit and state management.
+- Creating clean UI components with Tailwind CSS.
+- Exploring frontend architecture and performance practices.
 
 ---
 
@@ -61,22 +57,13 @@
 
 ## 🔥 GitHub Streak
 
-<img
-src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=7C3AED&ring=06B6D4&fire=F97316&currStreakLabel=06B6D4"
-alt="GitHub Streak"
-/>
+<img src="https://streak-stats.demolab.com?user=YousefMohamed1011&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=7C3AED&ring=06B6D4&fire=F97316&currStreakLabel=06B6D4" alt="GitHub Streak" />
 
-<br/><br/>
+<br /><br />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YousefMohamed1011&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousefMohamed1011&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
 
 </div>
 
@@ -87,18 +74,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YousefMohamed1011/YousefMohamed1011/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YousefMohamed1011/YousefMohamed1011/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YousefMohamed1011/YousefMohamed1011/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -117,16 +95,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/YousefMohamed1011">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+<br />
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=120&section=footer" />
 
 </div>
